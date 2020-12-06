@@ -20,32 +20,31 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:                 Cryillic
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  yeet or be yeeted big dawg
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               Non-MSG and Gluten Free Hashes
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [hacking, infosec, windows, linux, tryhackme, cryillic, hackthebox]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  /assets/img/appa.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
-author:
+author: Cryillic
   # Used by `jekyll-feed`:
   name:                <firstname> <lastname>
   email:               <mail@domain.tld>
   # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             Real_Cryillic
 
 # Add links to the sidebar.
 menu:
