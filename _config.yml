@@ -39,7 +39,7 @@ keywords:              [hacking, infosec, windows, linux, tryhackme, cryillic, h
 logo:                  /assets/img/appa.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
-author: Cryillic
+#author: Cryillic
   # Used by `jekyll-feed`:
   name:                <firstname> <lastname>
   email:               <mail@domain.tld>
